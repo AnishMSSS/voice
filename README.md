@@ -1,4 +1,5 @@
 VOICE
+
 • meanfreq: mean frequency (in kHz)
 
 • sd: standard deviation of frequency
